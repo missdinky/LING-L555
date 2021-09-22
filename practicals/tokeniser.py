@@ -13,5 +13,7 @@ for line in text2:
 		print(item, "\n")
 
 
+
+
 			
 
