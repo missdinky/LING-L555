@@ -1,4 +1,4 @@
-#segmentor
+#segmenter
 import sys
 #input text 
 text = sys.stdin.read().lower()
