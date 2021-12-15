@@ -1,4 +1,5 @@
 import sys
+import statistics
 
 import epitran as ep
 import re
@@ -10,9 +11,9 @@ column_3 = [] #final_pho
 column_4 = [] #guess
 column_5 = [] #gender
 
-#with open('real_nouns.txt') as n:
-	#lines = n.readlines()
-	#for line in lines:
+#USE sed 199q fr_lieux2.txt 
+#or USE sed 1000q real_nouns.txt
+
 for line in sys.stdin.readlines(): 
 	row = line.split('\t')
 	row[1] = epi.transliterate(row[0])
@@ -34,7 +35,7 @@ gender['ɛ'] = 'un'
 gender['u'] = 'un'
 gender['a'] = 'un'
 gender['y'] = 'un'
-for v in ['a', 'u', 'i', 'e', 'ɛ', 'ɑ', 'o']:
+for v in ['a', 'u', 'i', 'e', 'ɛ', 'ɑ', 'o', 'œ']:
 	gender[v+'\u0303'] = 'un'
 gender['ʒ'] = 'un'
 gender['m'] = 'un'
@@ -81,15 +82,13 @@ for (noun, t, pho, real_gender) in zip(column_1, column_2, column_3, column_5):
 	guess = '_'
 	if noun.isupper() == True:
 		guess = 'un'
-	#elif noun[-1] == noun[-2]:
-		#guess = 'une'
 	elif pho in gender:
 		guess = gender[pho]
 	column_4.append(guess)
 	print('%s\t%s\t%s\t%s\t%s'%(noun, t, pho, guess, real_gender))
 
 
-#check accuracy
+#check accuracy	
 true = 0
 total = 0
 for (guess, real_gender) in zip(column_4, column_5):
@@ -97,9 +96,12 @@ for (guess, real_gender) in zip(column_4, column_5):
 		true += 1
 	total += 1
 
-print(total)
-print(true)
-percent = (true//total)*100
-print(percent)
+#print(total)
+#print(true)
 
-	
+percentage = 100 * float(true)/float(total)
+print('Accuracy:' + str(percentage) + '%')
+
+ 
+
+
