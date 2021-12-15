@@ -1,0 +1,200 @@
+lAfghanistan	_	_	_	un
+lAlbanie	_	_	_	une	
+lAlgérie	_	_	_	une
+lAndorre	_	_	_	une
+lAngola		_	_	_	un
+lAntigua-et-Barbuda	_	_	_	un
+lArgentine	_	_	_	une
+lArménie	_	_	_	une
+lAustralie	_	_	_	une
+lAutriche	_	_	_	une
+lAzerbaïdjan	_	_	_	un
+Bahamas		_	_	_	une
+le Bahreïn	_	_	_	un
+le Bangladesh	_	_	_	un
+la Barbade	_	_	_	une
+la Biélorussie	_	_	_	une
+Belau		_	_	_	_
+la Belgique	_	_	_	une	
+le Belize	_	_	_	un
+le Bénin	_	_	_	un
+le Bhoutan	_	_	_	un
+la Bolivie	_	_	_	une
+la Bosnie-Herzégovine	_	_	_	une
+le Botswana	_	_	_	un
+le Brésil	_	_	_	un
+le Brunéi	_	_	_	un
+la Bulgarie	_	_	_	une
+le Burkina	_	_	_	une
+la Birmanie	_	_	_	une
+le Burundi	_	_	_	un
+le Cambodge	_	_	_	un
+le Cameroun	_	_	_	un
+le Canada	_	_	_	un
+le Cap-Vert	_	_	_	un
+la République centrafricaine	_	_	_	une
+le Tchad	_	_	_	un
+le Chili	_	_	_	un
+la Chine	_	_	_	une
+la Colombie	_	_	_	une
+Comores		_	_	_	une
+le Congo	_	_	_	un
+les Îles Cook	_	_	_	une	
+le Costa Rica	_	_	_	un
+la Côte dIvoire	_	_	_	une
+la Croatie	_	_	_	une
+Cuba	_	_	_	un
+Chypre	_	_	_	une
+la République tchèque	_	_	_	une
+le Danemark	_	_	_	un
+le Djibouti	_	_	_	un
+la Dominique	_	_	_	une
+la République dominicaine	_	_	_	une
+lÉquateur	_	_	_	un
+lÉgypte		_	_	_	une
+le Salvador	_	_	_	un
+lAngleterre	_	_	_	une
+la Guinée équatoriale	_	_	_	une
+lÉrythrée	_	_	_	une
+lEstonie	_	_	_	une
+lÉthiopie	_	_	_	une
+les Fidji	_	_	_	une	
+la Finlande	_	_	_	une
+la France	_	_	_	une
+la Polynésie française	_	_	_	une
+le Gabon	_	_	_	un
+la Gambie	_	_	_	une
+la Géorgie	_	_	_	une	
+lAllemagne	_	_	_	une	
+le Ghana	_	_	_	un
+la Grèce	_	_	_	une
+la Grenade	_	_	_	une
+le Guatemala	_	_	_	une
+la Guinée	_	_	_	une
+la Guinée-Bissao	_	_	_	une	
+la Guyana	_	_	_	une
+Haïti		_	_	_	un
+le Honduras	_	_	_	un
+la Hongrie	_	_	_	une
+lIslande	_	_	_	une
+lInde		_	_	_	une
+lIndonésie	_	_	_	une
+lIran		_	_	_	un
+lIrak		_	_	_	un
+lIrlande	_	_	_	une	
+Israël		_	_	_	un
+lItalie		_	_	_	une
+la Jamaïque	_	_	_	une
+le Japon	_	_	_	un
+la Jordanie	_	_	_	une
+le Kazakhstan	_	_	_	un
+le Kenya	_	_	_	un
+Kiribati	_	_	_	une
+le Koweït	_	_	_	un
+le Kirghizstan	_	_	_	un
+le Laos		_	_	_	un
+la Lettonie	_	_	_	une
+le Liban	_	_	_	un
+le Lesotho	_	_	_	un
+le Libéria	_	_	_	un
+la Libye	_	_	_	une
+le Liechtenstein	_	_	_	un
+la Lituanie	_	_	_	une	
+le Luxembourg	_	_	_	un
+la Macédoine	_	_	_	une
+Madagascar	_	_	_	un
+le Malawi	_	_	_	un
+la Malaisie	_	_	_	une
+les Maldives	_	_	_	une
+le Mali		_	_	_	un
+Malte		_	_	_	une
+les Îles Marshall	_	_	_	une
+la Mauritanie	_	_	_	une
+Île Maurice	_	_	_	une
+le Mexique 	_	_	_	un
+la Micronésie	_	_	_	une
+la Moldavie	_	_	_	une
+Monaco		_	_	_	un
+la Mongolie	_	_	_	une
+le Monténégro	_	_	_	un
+le Maroc	_	_	_	un
+le Mozambique	_	_	_	un
+la Namibie	_	_	_	une
+la Nauru	_	_	_	une
+le Népal	_	_	_	un
+les Pays-Bas	_	_	_	un
+la Nouvelle-Zélande	_	_	_	une
+le Nicaragua	_	_	_	un
+Nioué		_	_	_	un
+le Niger	_	_	_	un
+le Nigéria	_	_	_	un
+la Corée du Nord	_	_	_	une
+lIrelande du Nord	_	_	_	une
+la Norvège	_	_	_	une
+lOman		_	_	_	un
+le Pakistan	_	_	_	un
+le Panama	_	_	_	un
+la Papouasie-Nouvelle-Guinée	_	_	_	une
+le Paraguay	_	_	_	un
+le Pérou	_	_	_	un
+les Philippines	_	_	_	une
+la Pologne	_	_	_	une
+le Portugal	_	_	_	un
+le Qatar	_	_	_	un
+la Roumanie	_	_	_	une 
+la Russie	_	_	_	une
+le Rwanda	_	_	_	un
+Saint-Christophe-et-Niévès	_	_	_	un
+Sainte-Lucie	_	_	_	une	
+Saint-Vincent-et-les-Grenadines	_	_	_	un
+Saint-Marin	_	_	_	un	
+Sao Tomé et Principe	_	_	_	un	
+lArabie saoudite	_	_	_	une
+lÉcosse		_	_	_	une	
+le Sénégal	_	_	_	une
+la Serbie	_	_	_	une
+les Seychelles	_	_	_	une
+la Sierra Leone	_	_	_	une
+la Slovaquie	_	_	_	une
+la Slovénie	_	_	_	une
+les Îles Salomon	_	_	_	une
+la Somalie	_	_	_	une
+lAfrique du Sud	_	_	_	une
+la Corée du Sud	_	_	_	une
+lEspagne	_	_	_	une
+le Sri Lanka	_	_	_	un
+le Soudan	_	_	_	un
+le Surinam	_	_	_	un
+le Swaziland	_	_	_	un
+la Suède	_	_	_	une
+la Suisse	_	_	_	une
+la Syrie	_	_	_	une
+le Tadjikistan	_	_	_	un
+la Tanzanie	_	_	_	une
+la Thaïlande	_	_	_	une
+le Togo		_	_	_	un
+les Tonga	_	_	_	une
+la Trinité-et-Tobago	_	_	_	une
+la Tunisie	_	_	_	une
+la Turquie	_	_	_	une
+le Turkménistan	_	_	_	un
+le Tuvalu	_	_	_	un
+lOuganda	_	_	_	un
+lUkraine	_	_	_	une
+les Émirats arabes unis	_	_	_	un
+le Royaume-Uni	_	_	_	un
+les États-Unis	_	_	_	un
+lUruguay	_	_	_	un
+lOuzbékistan	_	_	_	un
+le Vanuatu	_	_	_	un
+le Vatican	_	_	_	un
+le Venezuela	_	_	_	un
+le Viêt-Nam	_	_	_	un
+le pays de Galles	_	_	_	un
+les Samoa occidentales	_	_	_	une
+le Yémen	_	_	_	un
+la Yougoslavie	_	_	_	une
+le Zaïre	_	_	_	un
+la Zambie	_	_	_	une
+le Zimbabwe	_	_	_	un
+
